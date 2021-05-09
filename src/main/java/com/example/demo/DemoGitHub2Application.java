@@ -37,6 +37,7 @@ public class DemoGitHub2Application {
 	@Bean
 	public void Dmos12() {
 		mainsddsd1("caominh");
+		System.out.println("sds");
 		mainsddsd("dsdsds");
 	}
 	
